@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm one of the core contributors to the [CUTLASS](https://github.com/NVIDIA/cutlass) project and am currently working at NVIDIA as a Sr. Architect.
+
+## 🔭 I’m currently working on ...
+
+### [CUTLASS](https://github.com/NVIDIA/cutlass)
+
+CUTLASS is a collection of CUDA C++ templates for implementing high-performance matrix-multiplication (GEMM) and other frequently used computations in deep learning and high-performance computing. As a core contributor, I work on developing and optimizing these templates to leverage the capabilities of NVIDIA GPUs.
+
+## 💬 Ask me about ...
+
+NVIDIA GPUs, CUDA, Parallel Computing Architecture, GPGPU, HPC, and parallel programming.
+
+## 📫 How to reach me: ...
+Feel free to reach out to me if you have any questions or want to collaborate on a project.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2)](https://www.linkedin.com/in/pradeep-ramani)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/twitter/follow/_prrama?style=social)](https://x.com/_prrama)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Contact%20Me-Email-blue)](mailto:pradeepramni@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=IonThruster)
