@@ -33,4 +33,6 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 [![Twitter](https://img.shields.io/twitter/follow/_prrama?style=social)](https://x.com/_prrama)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Contact%20Me-Email-blue)](mailto:pradeepramni@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=IonThruster)
+## ⚡ Fun fact: ...
+The profile : [IonThruster](https://en.wikipedia.org/wiki/Ion_thruster)  
+Significance : Low thrust / acceleration sustained for months or years can result in great things.
