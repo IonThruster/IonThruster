@@ -36,3 +36,5 @@ Feel free to reach out to me if you have any questions or want to collaborate on
 ## ⚡ Fun fact: ...
 The profile : [IonThruster](https://en.wikipedia.org/wiki/Ion_thruster)  
 Significance : Low thrust / acceleration sustained for months or years can result in great things.
+
+![Profile Views](https://komarev.com/ghpvc/?username=IonThruster)
