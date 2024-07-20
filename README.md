@@ -21,7 +21,7 @@ I'm one of the core contributors to the [CUTLASS](https://github.com/NVIDIA/cutl
 
 ### [CUTLASS](https://github.com/NVIDIA/cutlass)
 
-CUTLASS is a collection of CUDA C++ templates for implementing high-performance matrix-multiplication (GEMM) and other frequently used computations in deep learning and high-performance computing. As a core contributor, I work on developing and optimizing these templates to leverage the capabilities of NVIDIA GPUs.
+CUTLASS is a collection of CUDA C++ templates for implementing high-performance matrix-multiplication (GEMM) and other frequently used computations in deep learning and high-performance computing. As a core contributor, I work on developing and optimizing these kernels to optimally leverage the capabilities of NVIDIA GPUs.
 
 ## 💬 Ask me about ...
 
